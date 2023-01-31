@@ -3,4 +3,5 @@
 <img align="left" width="40%" src="https://lanyard-profile-readme.vercel.app/api/1016838891485007943">
 </picture></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6hr)](https://github.com/anuraghazra/github-readme-stats)
+[![6hr's GitHub stats](https://github-readme-stats.vercel.app/api?username=6hr)](https://github.com/6hr/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6hr&show_icons=true)
